@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KFG E-SPORTS OFFICIAL</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background: linear-gradient (#30200b,#08090d 35%);color:white;font-family:Arial,sans-serif;text-align:center}
+header{padding:55 px 15 px}
+h1{font-size clamp(35px,9vw,75px);color:#ffd34e;text-shadow:0 0 20px #b8860b;margin:10px 0}
+h2{color:#ffd34e;font-size:24 px}
+.gold{color:#ffd34e}
+.pink{color:#ff82d4}
+section{max-width:950px;margin:22px auto;padding:20px;border:1px solid #b8860b;border-radius:18px;background:#14120f}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.item{background:#211a0e;border:1px solid #c69b35;border-radius:12px;padding:20px;font-weight:bold}
+.group{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px;margin:12px 0;background:#102018;border:1px solid #398c51;border-radius:12px;text-align:left}
+a.btn{display:inline-block;background:#08a84c;color:white;text-decoration:none;padding:10px 20px;border-radius:25px;font-weight:bold}
+a.btn:hover{background:#12d965}
+.social a{display:block;color:white;text-decoration:none;padding:16px;margin:10px;background:#222;border:1px solid #b8860b;border-radius:12px}
+footer{padding:35px;color:#ffd34e}
+</style>
+</head>
+<body>
+<header>
+<div style="font-size:65px">👑</div>
+<h1>KFG E-SPORTS</h1>
+<h2>ORGANISATION</h2>
+<h3 class="pink">💖 WELCOME TO OUR FAMILY 💖</h3>
+<p class="gold">ONE TEAM • ONE FAMILY • ONE LEGACY</p>
+<a class="btn" href="#groups">JOIN OUR COMMUNITY ↗</a>
+</header>
+<section>
+<h2>🏆 TOURNAMENT ZONE 🏆</h2>
+<div class="grid">
+<div class="item">🔥 DAILY SCRIM</div>
+<div class="item">⚡ CHAMPION RUSH</div>
+<div class="item">💎 PAID TOURNAMENT</div>
+</div>
+</section>
+<section id="groups">
+<h2>🔗 OFFICIAL GROUPS 🔗</h2>
+<div class="group"><b>💚 GROUP 01</b><a class="btn" href="https://chat.whatsapp.com/HXxaws5sRjYDFzb9Wh2Ssy" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+<div class="group"><b>💚 GROUP 02</b><a class="btn" href="https://chat.whatsapp.com/FxkzVfQ6grRILlDvd7x3r2" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+<div class="group"><b>💚 GROUP 03</b><a class="btn" href="https://chat.whatsapp.com/EZi97ym97xd6x6C4Tgduon" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+<div class="group"><b>💚 GROUP 04</b><a class="btn" href="https://chat.whatsapp.com/GqDQ6sjGmVwDRTG7D72Hs5" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+<div class="group"><b>💚 GROUP 05</b><a class="btn" href="https://chat.whatsapp.com/JVYdwVDu5O8JdXzYIoJH3T" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+<div class="group"><b>💚 GROUP 06</b><a class="btn" href="https://chat.whatsapp.com/GMkM6fIL6lZCmcoqoZRz7j" target="_blank" rel="noopener noreferrer">JOIN ↗</a></div>
+</section>
+<section class="social">
+<h2>🌐 OFFICIAL PLATFORM 🌐</h2>
+<a href="https://www.facebook.com/profile.php?id=61590448967448">🔵 FACEBOOK • FOLLOW ↗</a>
+<a href="https://www.tiktok.com/@kfg.esports.organ">⚫ TIKTOK • FOLLOW ↗</a>
+<a href="https://www.youtube.com/@KFGESPOFFICIALS">🔴 YOUTUBE • SUBSCRIBE ↗</a>
+<a href="https://whatsapp.com/channel/0029VbCVTpDKgsNzKk4Pit1f">🟢 WHATSAPP CHANNEL • FOLLOW ↗</a>
+</section>
+<section>
+<h2>📞 OFFICIAL CONTACT 📞</h2>
+<p>👑 FOUNDER: <b>MD. SAYED</b></p>
+<p>📱 01945092298</p>
+</section>
+<footer>
+🏆 COMPETE • CONNECT • CHAMPION 🏆
+<p class="pink">💖 THANK YOU FOR JOINING 💖</p>
+</footer>
+</body>
+</html>
